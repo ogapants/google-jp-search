@@ -1,0 +1,16 @@
+{
+  "name": "google-jp-search",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "description": "Japanese Search in Google",
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.google.co.jp/*","https://www.google.com/*"],
+      "js": ["jquery.min.js","script.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
