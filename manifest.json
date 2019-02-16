@@ -1,8 +1,8 @@
 {
-  "name": "google-jp-search",
+  "name": "g-jp-search",
   "version": "0.0.0.1",
   "manifest_version": 2,
-  "description": "Japanese Search in Google",
+  "description": "Japanese Search",
   "icons": {
     "128": "icon.png"
   },

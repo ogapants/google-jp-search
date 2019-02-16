@@ -1,3 +1,4 @@
-# google-jp-search
+# g-jp-search
 
-![instruction](icon128.png)
+![instruction](icon.png)
+
